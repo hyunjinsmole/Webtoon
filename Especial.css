@@ -1,0 +1,8 @@
+body{background-image: url(hal/pattern.jpg);}
+.hey {font-family: 'Creepster', cursive;
+    font-size: 50px;
+    text-align: center;
+    color:#dd732c ;
+    text-shadow: 2px 2px #8f3003;
+    position: absolute;
+    margin-left:  15%;}
