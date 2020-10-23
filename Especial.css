@@ -4,5 +4,8 @@ body{background-image: url(hal/pattern.jpg);}
     text-align: center;
     color:#dd732c ;
     text-shadow: 2px 2px #8f3003;
-    position: absolute;
-    margin-left:  15%;}
+    left:  15%;
+    }
+#chanwi {display:block;
+         margin:50px auto;
+         width:70%;}
