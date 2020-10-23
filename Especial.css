@@ -9,3 +9,8 @@ body{background-image: url(hal/pattern.jpg);}
 #chanwi {display:block;
          margin:50px auto;
          width:70%;}
+#pp {margin: 5%;
+     color: black; 
+     background-color: rgb(255, 255, 255);
+     padding:5px 40px;
+     border-radius: 10px;}
